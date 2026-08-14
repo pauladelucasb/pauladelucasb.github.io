@@ -13,12 +13,7 @@ Moreover, as a Spanish Instructor and a language learner, I ask myself questions
 
 More specifically, I investigate:
 
-<p>I.  The development of second language oral fluency in study-abroad contexts, 
-    examining hesitation as a processing phenomenon to better understand the benefits 
-    of this learning context.</p>
+<p>I.  The development of second language oral fluency in study-abroad contexts, examining hesitation as a processing phenomenon to better understand the benefits of this learning context.</p>
 
-<p>II. Second dialect acquisition in mobility contexts through the lens of perception
-    and its relationship to language attitudes and social networks. Through this 
-    approach, I aim to understand the factors that help or hinder second dialect
-    acquisition.</p>
+<p>II. Second dialect acquisition in mobility contexts through the lens of perception and its relationship to language attitudes and social networks. Through this approach, I aim to understand the factors that help or hinder second dialect acquisition.</p>
 
