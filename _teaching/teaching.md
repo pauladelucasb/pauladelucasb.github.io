@@ -8,15 +8,13 @@ author_profile: true
 
 ## 2026 Courses
 
-### SPAN-2001-04: Adv Span - Transatlantic I
+### [SPAN-2001-04: Adv Span - Transatlantic I](https://gufaculty360.georgetown.edu/s/course-catalog/a1oUH00000XKOk1YAH/span200104?id=003UH000004nfMHYAY)
 
 **Georgetown University, Fall 2026.** This advanced undergraduate course is the first part in a sequence of courses built around four themes, namely 'The Construction of a Modern Society', 'Race and Gender', 'Identity' and 'Going Global: Transnational Units and Migration'. It provides the student with the tools to critically approach the cultures of the Spanish-speaking regions on both sides of the Atlantic. These are learner-centered courses where students build both their knowledge of subject matter and their language proficiency through oral and written discussions.
 
 **Contact & Office Hours:**  
 Email: pd758@georgetown.edu  
 Office Hours: TBD  
-
-[View Full Course Details](https://gufaculty360.georgetown.edu/s/course-catalog/a1oUH00000XKOk1YAH/span200104?id=003UH000004nfMHYAY)
 
 ---
 
