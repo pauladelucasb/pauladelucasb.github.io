@@ -12,10 +12,6 @@ author_profile: true
 
 **Georgetown University, Fall 2026.** This advanced undergraduate course is the first part in a sequence of courses built around four themes, namely 'The Construction of a Modern Society', 'Race and Gender', 'Identity' and 'Going Global: Transnational Units and Migration'. It provides the student with the tools to critically approach the cultures of the Spanish-speaking regions on both sides of the Atlantic. These are learner-centered courses where students build both their knowledge of subject matter and their language proficiency through oral and written discussions.
 
-**Contact & Office Hours:**  
-Email: pd758@georgetown.edu  
-Office Hours: TBD  
-
 ---
 
 ### [SPAN-1002-02: Introductory Spanish II](https://gufaculty360.georgetown.edu/s/course-catalog/a1oUH00000S5xznYAB/span100202?id=003UH000004nfMHYAY)
