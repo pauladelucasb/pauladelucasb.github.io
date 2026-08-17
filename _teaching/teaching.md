@@ -20,7 +20,7 @@ Office Hours: TBD
 
 ---
 
-### SPAN-1002-02: Introductory Spanish II(https://gufaculty360.georgetown.edu/s/course-catalog/a1oUH00000S5xznYAB/span100202?id=003UH000004nfMHYAY)
+[### SPAN-1002-02: Introductory Spanish II](https://gufaculty360.georgetown.edu/s/course-catalog/a1oUH00000S5xznYAB/span100202?id=003UH000004nfMHYAY)
 
 **Type:** Undergraduate Course  
 **Semester:** Spring 2026  
