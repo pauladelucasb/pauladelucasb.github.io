@@ -20,11 +20,7 @@ author_profile: true
 **Semester:** Spring 2026  
 **Institution:** Georgetown University  
 
-**Georgetown University, Spring 2026.** This course is a continuation of SPAN 001/003 in which students will further fulfill their needs to:
-
-1. Develop their ability to communicate satisfactorily in Spanish in everyday practical situations that may occur either here in the U.S or abroad
-2. Acquire some of the skills necessary for effective reading in Spanish
-3. Develop writing skills in Spanish
+**Georgetown University, Spring 2026.** This course is a continuation of SPAN 001/003 in which students will further fulfill their needs to: 1.) Develop their ability to communicate satisfactorily in Spanish in everyday practical situations that may occur either here in the U.S or abroad, 2.) acquire some of the skills necessary for effective reading in Spanish, and 3.) develop writing skills in Spanish
 
 ---
 
