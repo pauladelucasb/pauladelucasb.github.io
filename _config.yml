@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Paula de Lucas"
 title_separator          : "-"
 name                     : &name "Paula de Lucas"
@@ -27,8 +27,8 @@ author:
   name             : "Paula de Lucas"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Washington, D.C."
   employer         : "Georgetown University"
+  location         : "Washington, D.C."
   uri              : # URL
   email            : "pd758@georgetown.edu" 
 
