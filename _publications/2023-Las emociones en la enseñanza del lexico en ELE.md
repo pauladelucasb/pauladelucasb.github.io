@@ -6,7 +6,7 @@ permalink: http://hdl.handle.net/10017/57210
 excerpt: ''
 date: 2023
 venue: 'E-eleando: Ele en Red: serie de monografías y materiales para la enseñanza de ELE, ISSN-e 2530-7606, N. 30, 2023, págs. 1-75'
-image: '/images/publications/2023-Las emociones en la enseñanza del lexico en ELE.png'
+image: '/images/2023-Las emociones en la enseñanza del lexico en ELE.png'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''
