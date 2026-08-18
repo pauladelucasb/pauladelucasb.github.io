@@ -35,5 +35,29 @@
     "layout/page",
     "layout/archive",
     "layout/sidebar",
-    "layout/json_cv"
+    "layout/json_cv", 
+
+   /* Sticky footer: footer stays at page bottom on short pages */
+html,
+body {
+  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Main content wrappers used by Minimal Mistakes */
+.initial-content,
+#main,
+.page {
+  flex: 1 0 auto;
+}
+
+/* Push footer to the bottom */
+.page__footer {
+  margin-top: auto;
+}
 ;
