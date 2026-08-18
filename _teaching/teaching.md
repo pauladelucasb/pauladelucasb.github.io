@@ -1,3 +1,11 @@
+---
+title: "Teaching"
+collection: teaching
+type: "teaching"
+permalink: /teaching/
+author_profile: true
+---
+
 ## Fall 2026 
 
 **[SPAN-2001-04: Adv Span - Transatlantic I.](https://gufaculty360.georgetown.edu/s/course-catalog/a1oUH00000XKOk1YAH/span200104?id=003UH000004nfMHYAY)** *Georgetown University. Undergraduate Course, Fall 2026.* This advanced undergraduate course is the first part in a sequence of courses built around four themes, namely 'The Construction of a Modern Society', 'Race and Gender', 'Identity' and 'Going Global: Transnational Units and Migration'. It provides the student with the tools to critically approach the cultures of the Spanish-speaking regions on both sides of the Atlantic. These are learner-centered courses where students build both their knowledge of subject matter and their language proficiency through oral and written discussions.
