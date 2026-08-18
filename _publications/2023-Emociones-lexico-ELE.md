@@ -1,7 +1,7 @@
 ---
 title: "Las emociones en la enseñanza del léxico en ELE"
 collection: publications
-category: monograph
+category: manuscripts
 permalink: http://hdl.handle.net/10017/57210
 excerpt: ''
 date: 2023-01-01
