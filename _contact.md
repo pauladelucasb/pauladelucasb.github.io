@@ -6,7 +6,9 @@ author_profile: true
 ## Direct
 
 pd758@georgetown.edu
+
 Department of Spanish and Portuguese
+
 Georgetown University
 Washington, DC
 
