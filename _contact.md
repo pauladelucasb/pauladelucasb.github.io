@@ -1,3 +1,20 @@
+---
+title: "Contact"
+permalink: /contact/
+author_profile: true
+---
+## Direct
+
+pd758@georgetown.edu
+
+Department of Spanish and Portuguese
+
+Georgetown University
+Washington, DC
+
+## Contact Form
+
+I'd love to hear from you! Please use the form below to send me a message.
 
 ---
 title: "Contact"
