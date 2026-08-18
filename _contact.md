@@ -5,9 +5,7 @@ author_profile: true
 layout: default
 ---
 
-## Contact Form
-
-I'd love to hear from you! Please use the form below to send me a message.
+## *I'd love to hear from you! Please use the form below to send me a message.*
 
 <form action="https://formsubmit.co/pd758@georgetown.edu" method="POST" style="max-width: 600px; margin-top: 20px;">
   
@@ -33,7 +31,7 @@ I'd love to hear from you! Please use the form below to send me a message.
 
   <button type="submit" style="background-color: #0092ca; color: white; padding: 12px 24px; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; font-weight: bold;">Send Message</button>
 
-##  Or send me an email to:
+##  *Or send me an email to:*
 
 pd758@georgetown.edu
 
