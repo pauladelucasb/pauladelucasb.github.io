@@ -18,16 +18,16 @@ author_profile: true
 
 **[FLSP 1010 Elementary Spanish.](https://bulletin.auburn.edu/coursesofinstruction/flsp/)** *Auburn University. Undergraduate Course, Fall 2023 and Spring 2024.* Basic language skills stressed with progressive emphasis on conversation. Exposure to Hispanic civilization. For students with less than two years of high school Spanish.
 
-## MA Internship
-
-**Advanced conversation Spanish to Undergraduate students.** *University of Bristol. Undergraduate Course, Spring 2022.* Small-group practical seminars dedicated to advanced oral production, active conversation, and debate on contemporary Hispanic social and political affairs. Utilizing authentic multimedia and current press, students refine their rhetorical fluency and conversational precision to navigate complex global topics. [Extracurricular international internship](https://mele.web.uah.es/wp-content/uploads/2020/04/Pr%C3%A1cticas.pdf) for [MA in Training Teachers of Spanish as a Foreign Language (University of Alcalá).](https://posgrado.uah.es/en/masteres-universitarios/asignaturas/index.html?codPlan=M200)
-
-**Advanced conversation Spanish to Graduate students.** *University of Alcalá. Graduate Course, Spring 2022.* Small-group practical seminars dedicated to advanced oral and writing production. Utilizing authentic multimedia, students refine their academic writing and oral fluency to navigate in topics adapted to their academic and daily needs. [National internship](https://mele.web.uah.es/wp-content/uploads/2020/04/Pr%C3%A1cticas.pdf) for [MA in Training Teachers of Spanish as a Foreign Language (University of Alcalá).](https://posgrado.uah.es/en/masteres-universitarios/asignaturas/index.html?codPlan=M200)
-
 ## Labs
 
 **[FLSP Spanish Language Tutor.](https://cla.auburn.edu/world-languages/current-students/undergraduate/world-languages-multimedia-center/)** *Auburn University. Undergraduate lab, Fall 2022 and Spring 2023.* Conversational practice session hosted by graduate teaching assistants (GTAs) for students in elementary Spanish (FLSP courses) to build speaking skills in a relaxed environment.
 
 **[FLSP *Mesa española*: Spanish Conversation Group.](https://cla.auburn.edu/world-languages/current-students/undergraduate/student-organizations/)** *Auburn University. Undergraduate lab, Fall 2022 and Spring 2023.* This language lab offers students essential opportunities for extra conversational practice, targeted language assistance, and peer-to-peer engagement. GTAs facilitate structured conversation practice, organize enriching cultural events, and assist students with interactive tools in the language resource lab to enhance overall language proficiency.
+
+## MA Internship
+
+**Advanced conversation Spanish to Undergraduate students.** *University of Bristol. Undergraduate Course, Spring 2022.* Small-group practical seminars dedicated to advanced oral production, active conversation, and debate on contemporary Hispanic social and political affairs. Utilizing authentic multimedia and current press, students refine their rhetorical fluency and conversational precision to navigate complex global topics. [Extracurricular international internship](https://mele.web.uah.es/wp-content/uploads/2020/04/Pr%C3%A1cticas.pdf) for [MA in Training Teachers of Spanish as a Foreign Language (University of Alcalá).](https://posgrado.uah.es/en/masteres-universitarios/asignaturas/index.html?codPlan=M200)
+
+**Advanced conversation Spanish to Graduate students.** *University of Alcalá. Graduate Course, Spring 2022.* Small-group practical seminars dedicated to advanced oral and writing production. Utilizing authentic multimedia, students refine their academic writing and oral fluency to navigate in topics adapted to their academic and daily needs. [National internship](https://mele.web.uah.es/wp-content/uploads/2020/04/Pr%C3%A1cticas.pdf) for [MA in Training Teachers of Spanish as a Foreign Language (University of Alcalá).](https://posgrado.uah.es/en/masteres-universitarios/asignaturas/index.html?codPlan=M200)
 
 ---
