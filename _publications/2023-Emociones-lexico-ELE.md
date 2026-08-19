@@ -1,5 +1,5 @@
 ---
-title: "**De Lucas Barquero, P.** (2023). Las emociones en la enseñanza del léxico en ELE. E-eleando. _ELE en Red. Serie de Monografías y materiales para la enseñanza de ELE, 30_(1-75). ISSN: 2530-7606."
+title: "Las emociones en la enseñanza del léxico en ELE."
 collection: publications
 date: 2023-01-01
 citation: "De Lucas Barquero, P. (2023). Las emociones en la enseñanza del léxico en ELE. E-eleando. _ELE en Red. Serie de Monografías y materiales para la enseñanza de ELE, 30_(1-75). ISSN: 2530-7606."
