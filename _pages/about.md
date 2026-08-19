@@ -5,6 +5,7 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
+layout: single
 ---
 
 My name is Paula de Lucas, and I am a PhD student in Spanish Linguistics at Georgetown University. 
