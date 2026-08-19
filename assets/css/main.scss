@@ -47,6 +47,8 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 /* Main content wrappers used by Minimal Mistakes */
