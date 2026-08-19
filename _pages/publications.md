@@ -20,11 +20,5 @@ author_profile: true
   </a>
 </div>
 
-  academia         : "https://georgetown.academia.edu/PauladeLucasBarquero"
-  googlescholar    : "https://scholar.google.com/citations?user=A7CDpbQAAAAJ&hl=en"
-  orcid            : "https://orcid.org/0009-0003-0711-3729"
-  Dialnet          : "https://dialnet.unirioja.es/servlet/autor?codigo=6022869"
-  researchgate     : "https://www.researchgate.net/profile/Paula-De-Lucas"
-
 **De Lucas Barquero, P.** (2023). [Las emociones en la enseñanza del léxico en ELE. E-eleando.](http://hdl.handle.net/10017/57210) *ELE en Red. Serie de Monografías y materiales para la enseñanza del español como lengua extranjera*, 6, 1-198. https://doi.org/10.5281/zenodo.7834223
 
