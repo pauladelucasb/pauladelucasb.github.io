@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 <div style="display: flex; gap: 15px; justify-content: center; margin-bottom: 30px; flex-wrap: wrap;">
-  <a href="[GOOGLE_SCHOLAR_LINK]" class="btn btn--primary" style="display: flex; align-items: center; gap: 8px;">
+  <a href="[GOOGLE_SCHOLAR_LINK](https://scholar.google.com/citations?user=A7CDpbQAAAAJ&hl=en)" class="btn btn--primary" style="display: flex; align-items: center; gap: 8px;">
     <i class="ai ai-google-scholar"></i> Google Scholar
   </a>
-  <a href="[ORCID_LINK]" class="btn btn--primary" style="display: flex; align-items: center; gap: 8px;">
+  <a href="[ORCID_LINK](https://orcid.org/0009-0003-0711-3729)" class="btn btn--primary" style="display: flex; align-items: center; gap: 8px;">
     <i class="ai ai-orcid"></i> Orcid
   </a>
-  <a href="[RESEARCHGATE_LINK]" class="btn btn--primary" style="display: flex; align-items: center; gap: 8px;">
+  <a href="[RESEARCHGATE_LINK](https://www.researchgate.net/profile/Paula-De-Lucas)" class="btn btn--primary" style="display: flex; align-items: center; gap: 8px;">
     <i class="ai ai-researchgate"></i> ResearchGate
   </a>
-  <a href="[ACADEMIA_LINK]" class="btn btn--primary" style="display: flex; align-items: center; gap: 8px;">
+  <a href="[ACADEMIA_LINK](https://georgetown.academia.edu/PauladeLucasBarquero)" class="btn btn--primary" style="display: flex; align-items: center; gap: 8px;">
     <i class="ai ai-academia"></i> Academia
   </a>
 </div>
