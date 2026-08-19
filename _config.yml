@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt" # "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Paula de Lucas"
 title_separator          : "-"
 name                     : &name "Paula de Lucas"
