@@ -10,9 +10,10 @@ author_profile: true
 <ul class="publications-list">
   {% for post in site.publications reversed %}
     <li>
-      {{ post.citation | default: post.title }}
       {% if post.paper_url %}
-        — <a href="{{ post.paper_url }}" target="_blank" rel="noopener noreferrer">Full text</a>
+        <a href="{{ post.paper_url }}" target="_blank" rel="noopener noreferrer">{{ post.citation | default: post.title }}</a>
+      {% else %}
+        {{ post.citation | default: post.title }}
       {% endif %}
     </li>
   {% endfor %}
