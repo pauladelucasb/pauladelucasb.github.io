@@ -7,11 +7,11 @@
    ========================================================================== */
 
 /* Used to set the size for <em> */
-$doc-font-size              : 12;
+$doc-font-size              : 11;
 
 /* Paragraph indention */
 $paragraph-indent           : false; // true, false (default)
-$indent-var                 : 1.3em;
+$indent-var                 : 1.5em;
 
 /* System typefaces */
 $serif                      : Georgia, Times, serif;
@@ -39,9 +39,9 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $times;
-$header-font-family         : $times;
-$caption-font-family        : $times;
+$global-font-family         : $roboto;
+$header-font-family         : $roboto;
+$caption-font-family        : $roboto;
 
 /* ==========================================================================
    Breakpoints
