@@ -20,6 +20,9 @@ author_profile: true
   justify-content: center;
   gap: 8px;
   min-width: 180px;
+  min-height: 48px;
+  padding: 0.85em 1.2em;
+  line-height: 1.2;
   text-align: center;
   box-sizing: border-box;
 }
