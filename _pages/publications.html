@@ -5,23 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">
-    You can also find my articles on
-    <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
-  </div>
-{% endif %}
-
 {% include base_path %}
 
 <ul class="publications-list">
   {% for post in site.publications reversed %}
     <li>
-      <a href="{{ post.url | relative_url }}">
-        {{ post.citation | default: post.title }}
-      </a>
+      {{ post.citation | default: post.title }}
+      {% if post.paper_url %}
+        — <a href="{{ post.paper_url }}" target="_blank" rel="noopener noreferrer">Full text</a>
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
-
 
