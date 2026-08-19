@@ -11,7 +11,7 @@ author_profile: true
   {% for post in site.publications reversed %}
     <li>
       {% if post.paper_url %}
-        <a href="{{ post.paper_url }}" target="_blank" rel="noopener noreferrer">{{ post.citation | default: post.title }}</a>
+        {{ post.citation | replace: post.title, '<a href="' | append: post.paper_url | append: '" target="_blank" rel="noopener noreferrer">' | append: post.title | append: '</a>' | raw }}
       {% else %}
         {{ post.citation | default: post.title }}
       {% endif %}
