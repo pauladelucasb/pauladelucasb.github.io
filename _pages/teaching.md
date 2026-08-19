@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 ### Fall 2026
 {: .notice}
