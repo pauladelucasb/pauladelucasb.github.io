@@ -17,9 +17,9 @@
   /* keep footer in normal document flow so custom widgets do not overlap content */
   height: auto;
 
-  /* keep the footer on the bottom of the page */
-  position: fixed;
-  bottom: 0;
+  /* footer appears at the end of page content, not fixed */
+  position: static;
+  bottom: auto;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -58,9 +58,9 @@
 }
 
 @media screen and (max-width: 768px) {
-  /* don't pin the footer on mobile devices */
+  /* keep footer static on mobile devices */
   .page__footer {
-    position: relative;
+    position: static;
     bottom: auto;
   }
 }
