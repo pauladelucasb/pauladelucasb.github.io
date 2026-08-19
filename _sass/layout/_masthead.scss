@@ -51,6 +51,9 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
   }
 }
 
@@ -63,6 +66,7 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+    margin-right: auto;
   }
 }
 
