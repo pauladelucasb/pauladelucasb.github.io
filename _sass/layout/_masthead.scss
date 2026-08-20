@@ -37,9 +37,8 @@
     nav {
       z-index: 10;
       width: 100%;
-      display: flex !important;
-      align-items: center !important;
-      flex-wrap: nowrap !important;
+      display: flex;
+      align-items: center;
     }
 
     a {
@@ -49,60 +48,66 @@
 }
 
 .masthead__menu {
-  width: 100% !important;
-  display: flex !important;
-  align-items: center !important;
-  flex: 1 !important;
+  width: 100%;
+  display: flex;
+  align-items: center;
 
   ul {
-    margin: 0 !important;
-    padding: 0 !important;
-    clear: both !important;
-    list-style-type: none !important;
-    display: flex !important;
-    justify-content: flex-end !important;
-    align-items: center !important;
-    width: 100% !important;
-    flex-wrap: nowrap !important;
+    margin: 0;
+    padding: 0;
+    clear: both;
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    flex-wrap: nowrap;
   }
 }
 
 .greedy-nav {
-  width: 100% !important;
-  display: flex !important;
-  align-items: center !important;
-  flex-wrap: nowrap !important;
-  margin: 0 !important;
-  padding: 0 !important;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  margin: 0;
+  padding: 0;
 }
 
 .greedy-nav .visible-links {
-  display: flex !important;
-  width: 100% !important;
-  align-items: center !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  flex-wrap: nowrap !important;
-}
-
-.greedy-nav button {
-  display: none !important;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  flex-wrap: nowrap;
+  list-style: none;
 }
 
 .masthead__menu-item {
-  background-color: var(--global-bg-color) !important;
-  display: inline-flex !important;
-  list-style-type: none !important;
-  white-space: nowrap !important;
-  align-items: center !important;
-  margin: 0 !important;
-  padding: 0 !important;
+  background-color: var(--global-bg-color);
+  display: inline-flex;
+  list-style-type: none;
+  white-space: nowrap;
+  align-items: center;
+  margin: 0;
+  padding: 0;
 
   &--lg {
-    padding-right: 2em !important;
-    font-weight: 700 !important;
-    margin-right: auto !important;
-    margin-left: 0 !important;
+    padding-right: 2em;
+    font-weight: 700;
+    margin-right: auto;
+  }
+
+  a {
+    margin: 0 1rem;
+    padding: 0.5rem 0;
+    color: var(--global-masthead-link-color);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--global-masthead-link-color-hover);
+    }
   }
 }
 
