@@ -37,6 +37,8 @@
     nav {
       z-index: 10;
       width: 100%;
+      display: flex;
+      align-items: center;
     }
 
     a {
@@ -59,11 +61,26 @@
   }
 }
 
+.greedy-nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.greedy-nav .visible-links {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
 .masthead__menu-item {
   background-color: var(--global-bg-color);
-  display: block;
+  display: inline-flex;
   list-style-type: none;
   white-space: nowrap;
+  align-items: center;
 
   &--lg {
     padding-right: 2em;
