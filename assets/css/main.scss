@@ -63,3 +63,32 @@ body {
 .page__footer {
   margin-top: auto;
 }
+
+/* Force navigation single line layout */
+.masthead__menu ul {
+  display: flex !important;
+  justify-content: flex-end !important;
+  width: 100% !important;
+  flex-wrap: nowrap !important;
+}
+
+.greedy-nav {
+  display: flex !important;
+  width: 100% !important;
+  flex-wrap: nowrap !important;
+}
+
+.greedy-nav .visible-links {
+  display: flex !important;
+  width: 100% !important;
+  flex-wrap: nowrap !important;
+}
+
+.masthead__menu-item {
+  display: inline-flex !important;
+  white-space: nowrap !important;
+}
+
+.masthead__menu-item--lg {
+  margin-right: auto !important;
+}
