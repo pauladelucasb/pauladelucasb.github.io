@@ -64,31 +64,62 @@ body {
   margin-top: auto;
 }
 
-/* Force navigation single line layout */
+/* Force navigation on single line with title */
+.masthead__inner-wrap {
+  display: flex !important;
+  align-items: center !important;
+  width: 100% !important;
+}
+
+.masthead__menu {
+  display: flex !important;
+  flex: 1 !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 .masthead__menu ul {
   display: flex !important;
-  justify-content: flex-end !important;
+  flex: 1 !important;
   width: 100% !important;
-  flex-wrap: nowrap !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 .greedy-nav {
   display: flex !important;
+  flex: 1 !important;
   width: 100% !important;
-  flex-wrap: nowrap !important;
+  align-items: center !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 .greedy-nav .visible-links {
   display: flex !important;
+  flex: 1 !important;
   width: 100% !important;
-  flex-wrap: nowrap !important;
+  align-items: center !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  list-style: none !important;
 }
 
 .masthead__menu-item {
   display: inline-flex !important;
+  align-items: center !important;
+  margin: 0 !important;
+  padding: 0 !important;
   white-space: nowrap !important;
 }
 
 .masthead__menu-item--lg {
   margin-right: auto !important;
+  padding-right: 2em !important;
+}
+
+.masthead__menu-item a {
+  margin: 0 1rem !important;
+  padding: 0.5rem 0 !important;
 }
